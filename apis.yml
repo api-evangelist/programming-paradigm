@@ -1,12 +1,20 @@
+aid: programming-paradigm
 name: Programming Paradigm
-description: Programming Paradigm is a software development technology or practice
-  that supports the creation, maintenance, or improvement of software systems. It
-  helps developers and engineering teams work more efficiently and deliver higher-quality
-  software products.
-url: null
+description: >-
+  Programming paradigms are fundamental styles of computer programming that
+  provide a framework for thinking about and structuring code, including
+  object-oriented, functional, imperative, declarative, and other approaches.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- Programming Paradigm
-created: '2025'
-modified: '2025'
+  - Programming Paradigm
+  - Software Development
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/programming-paradigm/refs/heads/main/apis.yml
+created: '2026-03-16'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
